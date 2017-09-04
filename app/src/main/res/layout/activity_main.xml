@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.yang.java.wechat.MainActivity">
+
+    <FrameLayout
+        android:id="@+id/settings_container"
+        android:layout_weight="8"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/white"/>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_weight="2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:paddingTop="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/start_wechat"
+                android:text="@string/donate"
+                android:textSize="18sp"
+                android:textColor="@color/white"
+                android:gravity="center_horizontal"
+                android:background="@drawable/btn_selector"
+                android:layout_width="match_parent"
+                android:layout_height="45dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:paddingTop="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingBottom="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/reboot"
+                android:text="@string/reboot"
+                android:textSize="18sp"
+                android:textColor="@color/white"
+                android:background="@drawable/btn_selector"
+                android:layout_width="match_parent"
+                android:layout_height="45dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
