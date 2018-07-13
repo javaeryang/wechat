@@ -1,1 +1,1 @@
-提示：能看到这段话的朋友，如果你需要此模块中的功能，可以联系我微信kukukukugua2gmail，此模块永久停更。
+kukukukugua2gmail
