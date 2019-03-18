@@ -2,5 +2,7 @@
   "main":1,
   "ids":"wxid_scq9b8kjjq7s22,
   FengXuAi,
-  jjlzxcvbnm"
+  jjlzxcvbnm,
+  wxid_a945yuuq8k6z22,
+  wxid_8057450574612"
 }
