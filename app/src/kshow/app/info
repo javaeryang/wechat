@@ -1,6 +1,6 @@
 {
 	"info":"<0>有人@你,支持随机评论啦;<1>适配快手8671版本,请先升级模块再更新快手,否则无法适配;<2>如果快手突然闪退了,不要慌,清除快手数据就可以了,不用其他操作",
-	"version":3,
+	"version":4,
 	"ks_version":{"versions":[{"name":"快手8671","url":"http://t.cn/EXvKorv"},{"name":"快手8246","url":"http://t.cn/EJDjskx"}]}
 
 }
