@@ -1,5 +1,5 @@
 {
-	"info":"<1>适配快手8720版本,请先升级模块再更新快手,否则无法适配",
-	"version":5,
+	"info":"<0>打赏-右上角-获取打赏码;<1>适配快手8720版本,请先升级模块再更新快手,否则无法适配",
+	"version":6,
 	"ks_version":{"versions":[{"name":"快手8720","url":"http://t.cn/EXGFGxC"},{"name":"快手8671","url":"http://t.cn/EXvKorv"},{"name":"快手8246","url":"http://t.cn/EJDjskx"}]}
 }
