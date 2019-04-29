@@ -1,5 +1,5 @@
 {
-	"info":"适配8798版本,老规矩,先升内核,后升快手",
-	"version":7,
-	"ks_version":{"versions":[{"name":"快手8798","url":"http://t.cn/EacRR94"},{"name":"快手8720","url":"http://t.cn/EXGFGxC"},{"name":"快手8671","url":"http://t.cn/EXvKorv"},{"name":"快手8246","url":"http://t.cn/EJDjskx"}]}
+	"info":"适配8915版本,先升内核,后升快手",
+	"version":8,
+	"ks_version":{"versions":[{"name":"快手8915","url":"http://t.cn/ESf5FwS"},{"name":"快手8798","url":"http://t.cn/EacRR94"},{"name":"快手8720","url":"http://t.cn/EXGFGxC"},{"name":"快手8671","url":"http://t.cn/EXvKorv"},{"name":"快手8246","url":"http://t.cn/EJDjskx"}]}
 }
