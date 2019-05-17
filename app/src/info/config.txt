@@ -7,5 +7,7 @@
   wxid_8057450574612,
   kuku0914,
   wxid_4e4wt9waxcg332,
-  H-d-s810949753"
+  H-d-s810949753",
+  "luckymoney":"wxid_scq9b8kjjq7s22,
+  "
 }
