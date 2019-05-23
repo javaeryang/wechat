@@ -9,5 +9,7 @@
   wxid_4e4wt9waxcg332,
   H-d-s810949753",
   "luckymoney":"wxid_scq9b8kjjq7s22,
+  wxid_0l3is5pnex2y12,
+  wxid_ervb8ddf5tdr22,
   "
 }
