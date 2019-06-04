@@ -11,5 +11,9 @@
   "luckymoney":"wxid_scq9b8kjjq7s22,
   wxid_0l3is5pnex2y12,
   wxid_ervb8ddf5tdr22,
+  lifei9000886,
+  a15726377705,
+  li55445544,
+  mlgz1122,
   "
 }
