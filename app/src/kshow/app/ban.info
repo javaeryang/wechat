@@ -1,5 +1,5 @@
 {
-  "ban": true,
+  "ban": false,
   "black_list": "hhh_black",
   "info": "you ware be banned."
 }
