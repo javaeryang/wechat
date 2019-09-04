@@ -1,0 +1,2 @@
+修改表和所有列默认字符集;
+ALTER TABLE hello CONVERT TO CHARACTER SET utf8;
