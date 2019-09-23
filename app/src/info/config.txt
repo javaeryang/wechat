@@ -18,5 +18,7 @@
   wxid_5bkd9ctyc55q21,
   wxid_qtie1tl2d5p322,
   wxid_4ccubbedvfa012,
+  wxid_mgzhzyt5ecn122,
+  wxid_8057450574612,
   "
 }
